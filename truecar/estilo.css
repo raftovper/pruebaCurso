@@ -1,0 +1,106 @@
+*{
+	text-shadow: none;
+
+}
+
+#page_home{
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+		color:white;
+}
+
+#button_next{
+	background:#FF6807;
+	border:none;
+	text-shadow: none;
+	color:white;
+}
+
+#custom-header{
+	background-color: #13385C;
+	border:none;
+	color:white;
+}
+
+#how-button{
+	opacity:0.8;
+	background-color: #568FB7;
+	color:white;
+}
+
+
+#menu-icon{
+	background-color: #13385C;
+	border: #13385C;
+	box-shadow: none;
+}
+
+
+#singin-button{
+	border:none;
+	background: none;
+	box-shadow: none;
+	color:white;
+	text-shadow: none;
+}
+
+
+/* Second page*/
+
+
+
+#price_block .price{
+	color: #13385C;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+
+#image-and-name #imagen-coche{
+	width:30%;
+	float:left;
+	margin-right:10px;
+}
+
+
+
+#important_note{
+	background-color: #13385C;
+	color:white;
+	padding:10px;
+	font-size: 0.9em;
+}
+
+
+.green{
+	color:green;
+	font-weight:bold;
+}
+
+.gray{
+	text-align: center;
+	color:gray;
+	font-size: 0.5em;
+}
+
+.taxes_default{
+	background:#13385C;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+.taxes_class{
+	background:green;
+}
+
+
+
+
+
+
+
+
