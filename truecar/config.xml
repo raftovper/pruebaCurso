@@ -33,6 +33,6 @@ version   = "1.0.0">
 	-->
 	<access origin="*"/>
 	<!-- allow local pages -->
-	<content src="https://github.com/raftovper/pruebaCurso/blob/master/truecar/index.html" />
+	<content src="https://fellow-citral.codio.io/truecar/index.html" />
 
 </widget>
