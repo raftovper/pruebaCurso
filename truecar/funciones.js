@@ -24,3 +24,9 @@ function izquierda() {
 function derecha() {
 	$('#imagen-coche').width('30%');
 }
+
+
+window.addEventListener("load", function () {
+	console.log("Se ha producido un click");
+  FastClick.attach(document.body);
+});
